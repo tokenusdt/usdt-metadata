@@ -1,7 +1,7 @@
 {
     "name": "My USDT",
     "symbol": "USDT",
-    "uri": "https://github.com/tokenusdt/usdt/blob/94cae04b175af23ecbaf9690138c40960640c96a/usdt.png",  // 图标或其他元数据的URL
+    "uri": "https://https://imgur.com/90T6VE8.png",  // 图标或其他元数据的URL
     "sellerFeeBasisPoints": 10,  // 手续费，500基点即5%
     "creators": null  // 可选字段，设置为null表示没有设置创建者
   }
